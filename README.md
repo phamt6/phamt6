@@ -1,9 +1,9 @@
 ### Hi there, I'm Hoang. Thanks for visiting my profile 👋
-- 👨‍🏫 I am currently employed to provide lectures in Software Development at the Business College Helsinki [business-college-helsinki]
-- 📖 M.Sc. in CS, M.Eng. in Data Analytics
-- 🎮 During my free time, I work as an individual game developer, there isn't any planned release yet but stay tuned because it might come very soon.
-- 🥅 My goals for 2021: develop myself into a better engineer, become an online educator
-- 🧑‍🍳 Side hobbies: I love cooking and in a parallel reality, I might have been a chef
+- 👨‍🏫 Who: I am currently employed to provide lectures in Software Development at the [Business College Helsinki][bch]
+- 📖 Academic: M.Sc. in Computer Science, M.Eng. in Data Analytics
+- 🎮 Projects: During my free time, I work as an individual game developer, there isn't any planned release yet but stay tuned because it might come very soon.
+- 🥅 Goals for 2021: develop myself into a better engineer, become an online educator
+- 🧑‍🍳 Other: I love cooking and in a parallel reality, I might have been a chef
 - 💬 Multilingual: 🇻🇳 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇮 🇸🇪
 
 ### My tech stack 🔥
@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 -->
 
 [linkedin]: https://linkedin.com/in/tienhoangpham
-[business-college-helsinki]: https://en.bc.fi/qualifications/full-stack-web-developer-program/
+[bch]: https://en.bc.fi/qualifications/full-stack-web-developer-program/
