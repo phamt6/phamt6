@@ -1,4 +1,4 @@
-### Hi there, this is Hoang, and I would like to thank you for visiting my profile 👋
+### Hi there, this is Hoang, thank you for having visited my profile 👋
 - 🔭 I am currently open for new challenges, especially remote positions
 
 ## About me
