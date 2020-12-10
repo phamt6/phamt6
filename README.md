@@ -6,6 +6,9 @@
 - 🧑‍🍳 Other: I love cooking and in a parallel reality, I might have been a chef
 - 💬 Multilingual: 🇻🇳 🇬🇧 🇫🇮 🇸🇪
 
+### Let's get connected 🔗
+[<img align="left" alt="Tien Hoang Pham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 ### My tech stack 🔥
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="Angular.js" width="26px" src="https://angular.io/assets/images/logos/angular/angular.png" />][linkedin]
@@ -27,8 +30,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 <br/>
 
-### Let's get connected 🔗
-[<img align="left" alt="Tien Hoang Pham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!--
 **phamt6/phamt6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
