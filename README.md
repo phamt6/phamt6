@@ -8,6 +8,9 @@
 - 🧑‍🍳 I love cooking and in a parallel reality, I might have been a chef
 - 💬 Multilingual: 🇻🇳 🇬🇧 🇫🇮 🇸🇪
 
+## Github activities stats
+[![Hoang Pham's github stats](https://github-readme-stats.vercel.app/api?username=bch-fullstack)](https://github.com/bch-fullstack)
+<br/>
 ## Let's get connected 🔗
 [<img align="left" alt="Tien Hoang Pham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -54,4 +57,3 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
-[![Hoang Pham's github stats](https://github-readme-stats.vercel.app/api?username=bch-fullstack&show_icons=true&theme=merko)](https://github.com/bch-fullstack)
