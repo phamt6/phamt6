@@ -11,6 +11,7 @@
 
 <br/>
 <br/>
+
 ### My tech stack 🔥
 [<img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="Angular.js" height="26px" src="https://angular.io/assets/images/logos/angular/angular.png" />][linkedin]
