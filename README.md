@@ -9,14 +9,20 @@
 - 🧑‍🍳 I also have food obsession, love making food and in a parallel reality, I might have been a chef
 - 💬 Multilingual: 🇻🇳 🇬🇧 🇫🇮 🇸🇪
 
+---
+
 ## Stats of my work [Github account][alt-github]
 [![Hoang Pham's github stats](https://github-readme-stats.vercel.app/api?username=bch-fullstack)](https://github.com/bch-fullstack)
-<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bch-fullstack&layout=compact)](https://github.com/bch-fullstack)
+
+
+---
+
 ## Let's get connected 🔗
 [<img align="left" alt="Tien Hoang Pham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br/>
-<br/>
+---
 
 ## My tech stack 🔥
 [<img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
@@ -35,7 +41,8 @@
 [<img align="left" alt="CSS3" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
 [<img align="left" alt="Sass" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][linkedin]
 [<img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-<br/>
+
+---
 
 
 <!--
@@ -56,6 +63,3 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/tienhoangpham
 [bch]: https://en.bc.fi/qualifications/full-stack-web-developer-program/
 [alt-github]: https://github.com/bch-fullstack
-
-<br/>
-<br/>
