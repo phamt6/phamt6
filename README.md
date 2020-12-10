@@ -1,18 +1,20 @@
-### Hi there, I'm Hoang. Thanks for visiting my profile 👋
-- 👨‍🏫 Who: I am currently employed to provide lectures in Software Development at the [Business College Helsinki][bch]
-- 📖 Academic: M.Sc. in Computer Science, M.Eng. in Data Analytics
-- 🎮 Projects: During my free time, I work as an individual game developer, there isn't any planned release yet but stay tuned because it might come very soon.
-- 🥅 Goals for 2021: develop myself into a better engineer, become an online educator
-- 🧑‍🍳 Other: I love cooking and in a parallel reality, I might have been a chef
+### Hi there, I'm Hoang. Thank you for visiting my profile 👋
+
+## 
+- 👨‍🏫 I currently provide lectures in software development at the [Business College Helsinki][bch]
+- 📖 I hold an M.Sc. in Computer Science and a M.Eng. in Data Analytics
+- 🎮 I work as an individual game developer (a release plan is coming soon)
+- 🥅 2021 Goals: develop myself into a better engineer, become an online educator
+- 🧑‍🍳 I love cooking and in a parallel reality, I might have been a chef
 - 💬 Multilingual: 🇻🇳 🇬🇧 🇫🇮 🇸🇪
 
-### Let's get connected 🔗
+## Let's get connected 🔗
 [<img align="left" alt="Tien Hoang Pham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 <br/>
 
-### My tech stack 🔥
+## My tech stack 🔥
 [<img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="Angular.js" height="26px" src="https://angular.io/assets/images/logos/angular/angular.png" />][linkedin]
 [<img align="left" alt="React.js" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
@@ -29,8 +31,6 @@
 [<img align="left" alt="CSS3" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
 [<img align="left" alt="Sass" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][linkedin]
 [<img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-[<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
-[<img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 <br/>
 
 
@@ -51,3 +51,7 @@ Here are some ideas to get you started:
 
 [linkedin]: https://linkedin.com/in/tienhoangpham
 [bch]: https://en.bc.fi/qualifications/full-stack-web-developer-program/
+
+<br/>
+<br/>
+[![Hoang Pham's github stats](https://github-readme-stats.vercel.app/api?username=bch-fullstack&show_icons=true&theme=merko)](https://github.com/bch-fullstack)
