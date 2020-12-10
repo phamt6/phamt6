@@ -1,14 +1,15 @@
 ### Hi there, I'm Hoang. Thank you for visiting my profile 👋
 
-## 
+## About me
 - 👨‍🏫 I currently provide lectures in software development at the [Business College Helsinki][bch]
-- 📖 I hold an M.Sc. in Computer Science and a M.Eng. in Data Analytics
+- 📖 M.Sc. in Computer Science and M.Eng. in Data Analytics
 - 🎮 I work as an individual game developer (a release plan is coming soon)
-- 🥅 2021 Goals: develop myself into a better engineer, become an online educator
-- 🧑‍🍳 I love cooking and in a parallel reality, I might have been a chef
+- 🥅 2021 Goals: Become an online educator, new challenges to become a better engineer
+- 🧰 I enjoy making things, learn by doing, and a strict visual thinker
+- 🧑‍🍳 I also have food obsession, love making food and in a parallel reality, I might have been a chef
 - 💬 Multilingual: 🇻🇳 🇬🇧 🇫🇮 🇸🇪
 
-## Github activities stats
+## Stats of my work [Github account][alt-github]
 [![Hoang Pham's github stats](https://github-readme-stats.vercel.app/api?username=bch-fullstack)](https://github.com/bch-fullstack)
 <br/>
 ## Let's get connected 🔗
@@ -54,6 +55,7 @@ Here are some ideas to get you started:
 
 [linkedin]: https://linkedin.com/in/tienhoangpham
 [bch]: https://en.bc.fi/qualifications/full-stack-web-developer-program/
+[alt-github]: https://github.com/bch-fullstack
 
 <br/>
 <br/>
