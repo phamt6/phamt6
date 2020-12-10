@@ -3,9 +3,9 @@
 
 ## About me
 - 👨‍🏫 I currently provide lectures in software development at the [Business College Helsinki][bch]
-- 📖 M.Sc. in Computer Science and M.Eng. in Data Analytics
+- 🎓 M.Sc. in Computer Science and M.Eng. in Data Analytics
 - 🎮 I work as an individual game developer (a release plan is coming soon)
-- 🥅 2021 Goals: Become an online educator, new challenges to become a better engineer
+- ✅ 2021 Goals: Become an online educator, new challenges to become a better engineer
 - 🌱 I enjoy making things, learn by doing, and a strict visual thinker
 - 😄 I also have food obsession, love making food and in a parallel reality, I might have been a chef 🧑‍🍳
 - 💬 Multilingual: 🇻🇳 🇬🇧 🇫🇮 🇸🇪
@@ -19,7 +19,7 @@
 
 ---
 
-## Latest updated tutorials
+## Latest uploads 📺
 - Coming soon...
 
 ---
@@ -47,7 +47,7 @@
 [<img align="left" alt="CSS3" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
 [<img align="left" alt="Sass" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][linkedin]
 [<img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-
+<br/>
 ---
 
 
