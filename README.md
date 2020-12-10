@@ -4,7 +4,7 @@
 - 🎮 Projects: During my free time, I work as an individual game developer, there isn't any planned release yet but stay tuned because it might come very soon.
 - 🥅 Goals for 2021: develop myself into a better engineer, become an online educator
 - 🧑‍🍳 Other: I love cooking and in a parallel reality, I might have been a chef
-- 💬 Multilingual: 🇻🇳 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇫🇮 🇸🇪
+- 💬 Multilingual: 🇻🇳 🇬🇧 🇫🇮 🇸🇪
 
 ### My tech stack 🔥
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
