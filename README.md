@@ -1,12 +1,13 @@
-### Hi there, I'm Hoang. Thank you for visiting my profile 👋
+### Hi there, this is Hoang, and I would like to thank you for visiting my profile 👋
+- 🔭 I am currently open for new challenges, especially remote positions
 
 ## About me
 - 👨‍🏫 I currently provide lectures in software development at the [Business College Helsinki][bch]
 - 📖 M.Sc. in Computer Science and M.Eng. in Data Analytics
 - 🎮 I work as an individual game developer (a release plan is coming soon)
 - 🥅 2021 Goals: Become an online educator, new challenges to become a better engineer
-- 🧰 I enjoy making things, learn by doing, and a strict visual thinker
-- 🧑‍🍳 I also have food obsession, love making food and in a parallel reality, I might have been a chef
+- 🌱 I enjoy making things, learn by doing, and a strict visual thinker
+- 😄 I also have food obsession, love making food and in a parallel reality, I might have been a chef 🧑‍🍳
 - 💬 Multilingual: 🇻🇳 🇬🇧 🇫🇮 🇸🇪
 
 ---
@@ -16,12 +17,17 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bch-fullstack&layout=compact)](https://github.com/bch-fullstack)
 
+---
+
+## Latest updated tutorials
+- Coming soon...
 
 ---
 
-## Let's get connected 🔗
+## Let's get connected 📫
 [<img align="left" alt="Tien Hoang Pham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
+
 ---
 
 ## My tech stack 🔥
