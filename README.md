@@ -2,12 +2,12 @@
 - 🔭 I am currently open for new challenges, especially remote positions
 
 ## About me
-- 👨‍🏫 I currently provide lectures in software development at the [Business College Helsinki][bch]
+- 👨‍🏫 I currently provide lectures in software development at the [Business College Helsinki][bch], together with my amazing colleagues, we have already successfully coached over a hundred new Developers for the Finnish Software Industry. 
 - 🎓 M.Sc. in Computer Science and M.Eng. in Data Analytics
 - 🎮 I work as an individual game developer (a release plan is coming soon)
-- ✅ 2021 Goals: Become an online educator, new challenges to become a better engineer
-- 🌱 I enjoy making things, learn by doing, and a strict visual thinker
-- 😄 I also have food obsession, love making food and in a parallel reality, I might have been a chef 🧑‍🍳
+- ✅ 2021 Goals: Become an online educator, entrepreneur, new challenges to become a better engineer
+- 🌱 I am a maker my nature, I learn by doing, and a strict visual thinker
+- 😄 I also have food obsession, love experimenting with food and in a parallel reality, I might have been a chef 🧑‍🍳
 - 💬 Multilingual: 🇻🇳 🇬🇧 🇫🇮 🇸🇪
 
 ---
