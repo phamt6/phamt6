@@ -1,8 +1,8 @@
-### Hi there, this is Hoang, thank you for having visited my profile 👋
+### Hi there, this is Hoang, thank you for visiting my profile 👋
 - 🔭 I am currently open for new challenges, especially remote positions
 
 ## About me
-- 👨‍🏫 I currently provide lectures in software development at the [Business College Helsinki][bch], together with my amazing colleagues, we have already successfully coached over a hundred new Developers for the Finnish Software Industry. 
+- 👨‍🏫 I currently provide lectures in software development at the [Business College Helsinki][bch], together with my amazing colleagues, we have successfully produced over a hundred new Developers for the Finnish Software Industry. 
 - 🎓 M.Sc. in Computer Science and M.Eng. in Data Analytics
 - 🎮 I work as an individual game developer (a release plan is coming soon)
 - ✅ 2021 Goals: Become an online educator, entrepreneur, new challenges to become a better engineer
